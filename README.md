@@ -82,10 +82,4 @@ The project uses the MNIST dataset which includes:
 - Real-time predictions through the GUI interface
 - Fast and efficient recognition
 
-## Contributing
 
-Feel free to fork this project and submit improvements or bug fixes through pull requests.
-
-## License
-
-This project is open source and available under the MIT License.
